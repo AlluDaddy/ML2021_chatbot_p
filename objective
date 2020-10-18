@@ -1,0 +1,22 @@
+This is a bot designed to pay a word game and to convert values from one unit to another unit. 
+
+Total of 3 files are written by our team.
+They are 
+  1. 19PA1A0508
+  2. 19PA1A0521
+  3. 19PA1A0503
+  
+There are 3 bots are assigned to this task. They are CARLO, SARA, and VICTOR. Carlo takes care of greetings. 
+
+
+He asks the user for his purpose of visit. On according to the user response carlo decides to send the response to either of the two.
+
+
+Usally game is handled by SARA because SARA likes english and games. Sara is very intelligent and very accurate. SARA never drops from the game because it is trained with many words of each aplhabet.
+So it is very hard to win agains SARA. 
+
+
+And then, VICTOR handles the all the mathematical conversions. VICTOR is also very active and accurate and never makes a mistakes. 
+
+
+The process of this bot is mentioned in process file in the same respiratory

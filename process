@@ -1,0 +1,36 @@
+
+This is a multi-task bot designed for playing a word game and helping in to convert units such as Length, Time ,Speed e.t.c.
+This bot greets you with a warm message .This bot named as CARLO  asks you to select one of the options to do.
+Then the bot will respond and share your response to SARA and VICTOR accordingly to your choices such as Word Game and Convertions respectively.
+
+
+
+About Sara:-
+Sara is always love to play games.She used to play word game. Will you join with her ?
+Let's go through flowchart for further instructions about the game.
+
+
+About Victor :-
+Victor is interested in mathematics. In Mathematics, especially he is good at conversations.He can able to convert  within a fraction of time.Will you try ?
+Let's go through flowchart for further instructions about the game.
+
+Process that VICTOR do:
+
+  From the time that CARLO handed over to VICTOR. VICTOR asks the user for the type of conversion like time, weight, length etc.,
+  After that VICTOR asks you for the units of conversion that you wants to convert from
+  Then VICTOR asks you asks the value of conversion.
+  After giving value SARA asks the user to tell to which the user want to convert to.
+  By that VICTOR caluculates the required and prints it out
+  
+  
+  
+Process that SARA do:
+  After taking over, SARA and user plays a ROCK, PAPER, SCISSORS game and decides who to start the game.
+  The one who wins the game starts with a random word. Then the other must reply with a word which starts whith the last letter of the previous word
+  Here when an input is given by the user SARA checks if that word starts with correct letter and it doesnot repeat previously.
+  SARA thouroghly checks that it doesnot makes any mistake in generating words. Since SARA is very intelligent it never makes a mistakes.
+  The first to tell the repeated or the first give up is the loser and other is the winner.
+  
+  
+  
+#HappyLearning
